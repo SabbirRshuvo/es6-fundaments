@@ -1,0 +1,11 @@
+es6 
+1.var let const
+2.scopes 
+3.templates string
+4.ternary operator
+5.array spreading
+6.object spreading
+7.object accessing
+8.optional chaning of object
+9.arrow function
+10. array foreach, map, filter, find, function
